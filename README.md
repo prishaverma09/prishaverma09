@@ -3,7 +3,8 @@ Hi, I'm Prisha!
 Branch: cse-AI/ML  
 Year: 1st Year B.Tech  
 University: VIT Bhopal University  
-Email: prishaverma0908@gmail.com
+Email 1: prishaverma0908@gmail.com
+Email 2: prisha.25bai11501@vitbhopal.ac.in
 
  My Goal
 I hope to learn how to leverage Artificial Intelligence and collaborative coding platforms to build impactful software solutions and a strong professional digital presence.<!--
